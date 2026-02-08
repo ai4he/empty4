@@ -1,0 +1,501 @@
+credits,assignments_per_week,work_hours,commute_minutes,sleep_hours,prior_gpa,study_style,support_needs,workload_score
+16,1,1,61,7.7,2.85,Solo,None,37.3
+10,6,19,18,6.7,3.49,Mixed,Time management,40.7
+20,6,12,76,5.7,3.12,Mixed,None,71.1
+19,9,23,27,6.4,2.44,Group,None,78.2
+16,7,13,12,6.6,3.52,Group,None,56.6
+10,2,26,10,9.2,3.35,Mixed,None,25.7
+11,9,1,75,8.5,3.06,Mixed,None,45.9
+15,1,30,36,8.4,2.9,Mixed,Time management,38.9
+11,8,7,13,6.1,3.61,Solo,Accessibility,33.0
+17,9,0,77,6.0,3.88,Group,None,60.7
+13,5,29,43,6.5,3.4,Solo,Time management,50.5
+19,1,2,67,7.4,3.29,Group,None,47.8
+13,6,24,72,5.0,2.73,Solo,None,58.8
+13,8,21,54,5.8,2.77,Group,None,63.9
+17,2,11,55,8.4,3.59,Mixed,None,40.2
+15,1,0,26,6.7,3.11,Solo,Accessibility,30.8
+13,6,3,0,5.7,3.21,Solo,None,34.7
+19,6,2,50,5.6,3.28,Solo,None,56.8
+10,6,18,54,5.3,2.92,Group,None,39.7
+11,8,26,88,8.8,3.35,Solo,None,60.0
+18,7,16,10,6.2,3.41,Group,None,56.8
+19,2,16,65,6.5,3.44,Group,Accessibility,61.7
+19,3,7,13,7.5,3.41,Mixed,None,40.0
+19,8,14,72,6.5,3.23,Mixed,Time management,67.2
+18,6,27,80,6.5,3.59,Group,None,70.5
+9,6,16,9,7.9,3.04,Solo,None,38.0
+13,2,20,11,5.9,2.89,Group,Time management,43.5
+9,8,29,73,6.4,3.0,Group,Time management,57.6
+9,8,3,43,7.5,3.18,Mixed,None,39.6
+16,9,16,78,8.3,3.41,Group,None,71.9
+14,1,25,80,6.7,3.08,Solo,Time management,45.9
+19,3,10,10,7.6,3.01,Group,None,40.4
+19,7,4,76,6.9,3.04,Mixed,None,67.7
+19,9,2,82,4.9,2.97,Solo,None,70.5
+11,4,10,62,9.0,4.0,Solo,None,34.7
+17,9,1,84,6.5,2.85,Solo,Time management,76.0
+11,3,5,88,7.3,2.48,Solo,Accessibility,45.7
+20,4,14,78,7.3,3.06,Group,None,70.9
+12,5,30,60,7.6,3.05,Mixed,Mental health,59.1
+13,7,16,67,6.9,2.99,Solo,Accessibility,59.1
+11,5,1,82,5.9,3.25,Solo,Accessibility,41.9
+10,3,8,57,6.9,3.39,Group,None,30.8
+12,8,28,44,8.1,3.02,Group,Time management,58.9
+14,4,0,40,10,3.89,Mixed,None,24.3
+11,3,1,36,8.2,2.98,Solo,Accessibility,18.6
+10,1,8,27,7.3,3.46,Mixed,Time management,14.0
+15,2,24,36,7.0,3.4,Solo,None,44.4
+10,8,19,68,5.7,3.68,Solo,Accessibility,57.2
+13,7,0,78,6.1,3.62,Solo,Time management,63.3
+10,9,17,64,8.7,3.31,Solo,None,47.2
+16,1,20,49,7.9,3.16,Solo,None,44.9
+19,2,24,74,7.4,3.17,Solo,None,54.1
+14,3,26,87,5.2,3.34,Mixed,None,64.3
+16,1,9,25,8.4,3.46,Solo,None,30.2
+13,9,12,69,6.7,3.22,Mixed,None,56.4
+19,6,8,15,8.6,3.33,Group,Accessibility,42.6
+15,6,5,63,6.6,2.84,Mixed,None,58.0
+15,3,17,37,7.6,3.13,Mixed,None,44.1
+16,7,5,88,5.8,3.35,Mixed,Mental health,52.8
+13,1,2,85,10,2.95,Mixed,Time management,26.5
+9,3,27,77,6.4,2.81,Solo,None,47.4
+15,1,19,19,5.9,2.78,Group,None,27.2
+10,3,16,46,5.6,3.55,Solo,Mental health,39.5
+17,7,29,71,7.1,3.71,Mixed,None,76.1
+18,5,22,62,7.2,3.41,Solo,None,66.1
+10,6,21,44,6.2,3.07,Group,Mental health,41.5
+11,3,25,46,6.4,3.19,Solo,Accessibility,42.8
+14,9,18,47,8.4,2.08,Solo,Time management,65.3
+10,2,9,50,8.9,3.2,Mixed,None,19.6
+11,6,20,9,7.8,2.63,Group,None,42.6
+17,3,24,16,4.6,3.56,Solo,Accessibility,46.1
+11,6,29,90,6.9,3.35,Mixed,Mental health,72.7
+10,5,6,81,7.9,3.11,Mixed,None,35.2
+11,3,5,84,6.7,2.59,Group,Accessibility,33.5
+18,1,26,3,9.6,3.68,Mixed,None,36.1
+18,1,15,80,8.5,2.65,Group,None,47.5
+19,7,9,58,7.4,3.26,Group,None,58.1
+11,6,27,40,7.2,3.12,Group,None,39.8
+14,9,17,13,6.4,3.61,Group,None,55.4
+15,7,7,20,7.3,3.56,Mixed,None,34.5
+11,8,16,59,6.0,3.2,Solo,None,51.9
+12,4,18,45,7.8,3.51,Mixed,Mental health,41.0
+19,8,9,68,7.6,3.21,Solo,Mental health,66.1
+14,1,12,6,5.0,2.96,Mixed,None,29.9
+15,9,14,70,6.3,4.0,Mixed,Time management,66.9
+14,6,17,46,7.4,3.21,Mixed,None,48.0
+9,1,1,17,6.5,2.5,Mixed,None,11.7
+14,6,5,50,6.1,3.85,Group,Time management,46.2
+17,9,17,62,6.7,2.87,Solo,None,65.4
+18,5,25,88,4.0,2.83,Group,Mental health,71.7
+18,4,23,6,6.4,3.08,Mixed,Accessibility,51.5
+19,4,1,73,5.8,3.38,Solo,None,54.5
+15,3,13,88,7.4,3.65,Mixed,Mental health,55.0
+9,3,16,26,5.6,2.0,Group,Time management,28.4
+14,3,14,68,6.4,3.51,Mixed,Time management,47.6
+16,4,30,31,6.1,3.14,Group,Accessibility,59.7
+20,4,22,90,5.6,3.23,Mixed,Mental health,73.2
+10,9,12,50,6.1,3.61,Solo,None,40.7
+13,2,11,56,5.9,2.65,Solo,None,29.7
+20,5,4,13,6.3,2.8,Solo,None,46.1
+17,4,20,29,8.2,3.33,Mixed,None,46.3
+17,3,13,83,6.4,3.95,Group,Time management,49.3
+13,6,9,82,8.9,3.45,Mixed,Time management,40.9
+9,3,13,22,6.6,3.3,Group,Accessibility,26.3
+11,5,28,4,8.6,3.23,Solo,Mental health,34.2
+19,9,16,63,8.1,3.36,Mixed,None,69.5
+12,2,10,20,6.8,2.63,Mixed,None,28.8
+18,4,5,78,4.9,3.73,Group,Time management,48.8
+10,7,21,12,7.3,3.4,Group,Mental health,46.1
+16,5,30,42,7.1,2.99,Solo,None,66.9
+14,4,1,85,7.8,3.43,Group,Time management,53.0
+13,2,20,37,5.8,3.01,Solo,None,43.3
+16,6,13,89,5.7,3.06,Mixed,Accessibility,69.6
+19,2,16,57,5.2,2.83,Mixed,None,55.7
+17,9,6,73,6.3,3.15,Mixed,None,65.2
+16,2,28,65,5.3,3.07,Solo,Time management,57.8
+16,1,17,59,6.5,2.9,Solo,None,48.9
+18,2,1,54,5.2,3.12,Solo,Mental health,47.1
+10,8,1,36,5.3,3.57,Mixed,Mental health,39.3
+15,8,27,48,6.0,2.77,Mixed,Mental health,74.1
+11,6,3,22,8.2,3.18,Solo,Accessibility,32.0
+9,5,14,86,7.1,3.12,Group,Accessibility,40.5
+12,8,11,19,6.5,4.0,Mixed,Accessibility,51.4
+18,1,7,26,7.4,3.69,Group,Time management,36.7
+20,1,7,5,6.3,3.37,Solo,Accessibility,37.3
+13,4,26,73,6.3,2.97,Mixed,Accessibility,62.1
+12,5,28,18,8.5,3.16,Group,None,53.5
+20,3,20,86,8.1,2.78,Group,Mental health,66.3
+19,7,25,67,6.5,3.58,Solo,None,75.7
+12,4,9,90,8.4,3.47,Solo,Time management,47.7
+15,9,16,17,6.3,3.4,Group,Time management,66.2
+10,9,23,24,5.9,3.57,Mixed,Time management,54.3
+10,4,25,75,6.8,2.69,Group,None,53.5
+9,4,29,24,6.4,3.39,Group,Mental health,37.7
+20,4,12,30,5.0,2.98,Group,None,54.4
+14,9,28,63,6.2,2.5,Mixed,None,75.7
+14,4,11,40,5.7,3.46,Solo,Accessibility,50.1
+18,7,9,19,7.2,3.3,Mixed,Accessibility,56.5
+16,9,20,87,5.9,3.78,Group,Mental health,71.5
+11,6,5,17,5.9,3.11,Mixed,Mental health,31.0
+9,9,1,9,8.7,3.0,Solo,None,34.9
+20,3,0,27,6.3,2.81,Mixed,Time management,45.2
+18,8,21,62,8.5,3.25,Group,None,64.3
+13,1,16,89,6.8,2.87,Solo,None,36.5
+10,9,4,30,7.5,3.66,Group,None,37.1
+15,8,18,31,7.7,3.49,Mixed,Accessibility,55.1
+10,1,2,51,5.9,3.55,Solo,Time management,23.2
+15,6,18,12,6.5,3.91,Solo,None,39.7
+20,8,8,5,8.6,2.92,Group,Mental health,53.8
+14,1,30,26,6.9,2.63,Mixed,Accessibility,37.2
+10,5,5,72,7.1,3.96,Group,Time management,33.0
+20,3,25,88,6.7,3.12,Group,None,62.5
+15,4,26,9,5.9,3.78,Mixed,None,45.9
+13,8,15,29,6.7,2.61,Group,None,63.4
+18,7,2,79,6.7,3.49,Solo,None,66.3
+19,3,23,49,8.6,3.12,Solo,Mental health,56.0
+16,6,24,34,7.4,3.3,Group,None,51.3
+9,2,11,70,6.6,3.65,Group,Mental health,35.1
+9,5,13,49,7.4,2.57,Mixed,Mental health,45.3
+11,7,5,17,6.8,3.16,Solo,None,41.8
+15,5,13,38,6.5,3.22,Group,Mental health,47.3
+18,4,14,13,5.6,3.23,Group,None,49.1
+18,7,25,42,5.8,3.36,Mixed,Mental health,71.1
+20,4,15,40,7.8,3.38,Group,None,58.3
+20,8,30,73,7.2,2.85,Group,Accessibility,80.7
+18,4,18,69,7.4,3.49,Solo,Mental health,65.3
+16,4,14,37,7.2,3.07,Group,Time management,49.5
+13,3,22,54,7.8,3.24,Mixed,None,41.6
+15,9,16,88,6.7,3.25,Group,Accessibility,74.0
+10,2,24,31,5.5,2.99,Mixed,Time management,32.3
+18,7,30,42,8.2,3.11,Solo,None,68.0
+17,4,14,47,9.0,2.67,Mixed,Time management,53.9
+11,6,0,61,8.0,3.45,Solo,None,40.4
+13,6,14,26,6.8,2.83,Solo,None,45.6
+20,8,10,8,6.3,3.89,Solo,None,57.0
+11,4,16,22,7.5,2.86,Group,Mental health,33.4
+12,7,20,23,7.7,3.74,Group,None,42.5
+18,7,12,0,6.5,3.12,Mixed,Accessibility,49.4
+10,2,25,68,7.4,3.53,Group,None,35.9
+19,6,19,49,5.8,2.79,Group,None,63.1
+16,3,26,86,6.7,2.88,Mixed,Time management,59.1
+12,5,3,23,6.1,3.05,Group,None,37.8
+11,7,13,23,5.5,3.24,Mixed,Mental health,46.7
+13,3,5,40,7.6,3.5,Group,Mental health,25.9
+16,3,6,49,8.4,3.09,Group,None,31.9
+16,8,5,10,7.1,2.55,Solo,None,47.1
+13,4,17,36,7.7,3.59,Mixed,Accessibility,33.7
+18,2,8,69,7.0,3.37,Solo,Accessibility,43.3
+16,9,6,54,8.8,3.65,Solo,None,61.7
+14,2,14,15,7.0,3.25,Mixed,Time management,28.6
+14,7,5,78,7.5,3.41,Solo,Accessibility,48.3
+18,9,5,41,6.4,3.53,Mixed,None,61.8
+17,2,4,52,10,2.59,Mixed,None,39.2
+20,6,26,31,6.3,3.24,Group,None,59.3
+19,5,20,53,6.7,3.31,Solo,None,62.3
+14,8,30,62,5.2,3.19,Mixed,None,71.8
+16,6,27,8,7.3,2.81,Group,Accessibility,49.6
+13,6,17,73,7.0,3.73,Group,Mental health,61.0
+9,1,3,80,7.3,2.77,Solo,Mental health,30.7
+15,4,22,16,8.1,3.45,Group,None,38.8
+14,5,2,47,6.1,2.7,Solo,None,42.4
+12,7,20,11,8.7,3.19,Group,None,41.9
+18,4,16,87,6.9,3.22,Group,Accessibility,67.3
+11,8,2,29,6.9,2.72,Solo,None,48.3
+14,5,4,48,7.3,2.54,Solo,Time management,43.6
+18,1,19,83,6.6,3.39,Solo,Time management,57.7
+11,7,19,87,6.2,3.3,Solo,None,65.4
+14,7,10,17,8.4,3.21,Solo,Time management,50.3
+18,5,24,88,9.3,3.33,Group,None,61.5
+15,5,20,6,6.5,3.35,Solo,None,36.4
+10,4,15,81,5.8,2.93,Solo,Mental health,49.8
+18,7,11,69,6.7,2.92,Solo,None,58.3
+10,1,8,27,7.4,3.23,Group,Time management,15.8
+15,7,22,51,6.0,3.63,Mixed,None,64.4
+10,5,2,65,9.9,2.68,Solo,Time management,27.8
+19,2,9,89,8.1,2.28,Solo,None,60.0
+10,7,3,58,6.7,3.11,Mixed,Accessibility,43.2
+20,3,22,1,6.4,3.71,Mixed,Time management,58.9
+20,5,5,47,8.5,3.7,Group,Accessibility,58.8
+14,7,8,67,8.7,3.78,Mixed,Time management,52.7
+16,8,16,46,9.2,3.47,Solo,None,56.2
+18,2,7,65,7.6,3.99,Solo,None,43.6
+16,6,12,19,8.3,4.0,Solo,Time management,50.2
+15,4,10,31,6.0,2.65,Group,Accessibility,49.3
+18,6,3,64,6.8,3.08,Solo,Accessibility,69.7
+10,8,27,36,6.7,3.25,Solo,Time management,49.4
+9,6,6,37,6.1,3.07,Mixed,None,28.0
+12,9,24,31,9.4,3.74,Solo,None,60.7
+14,1,30,42,8.8,3.21,Mixed,Accessibility,44.1
+12,7,15,7,7.9,3.42,Group,None,39.4
+12,9,13,89,8.1,2.93,Mixed,None,64.6
+15,2,18,72,7.4,3.74,Solo,None,48.2
+13,6,29,50,6.4,2.58,Group,None,61.2
+11,2,4,13,9.9,3.43,Group,None,19.4
+14,4,14,39,4.7,3.38,Solo,None,43.6
+20,1,6,41,4.9,3.58,Group,None,51.9
+9,5,8,22,8.2,3.28,Group,Time management,25.0
+10,3,3,1,6.8,3.85,Solo,None,20.8
+15,6,21,80,7.5,3.14,Mixed,None,62.6
+10,4,28,82,6.8,3.0,Group,None,52.8
+16,1,5,73,5.2,3.46,Group,None,42.0
+12,3,8,35,6.3,2.99,Mixed,Time management,35.3
+12,5,15,52,8.0,2.89,Solo,None,46.4
+17,4,20,69,7.6,3.54,Mixed,None,41.5
+17,8,11,72,5.8,3.19,Solo,None,67.7
+13,1,25,60,6.8,2.53,Solo,Mental health,42.7
+10,4,21,30,6.8,3.93,Mixed,None,38.7
+15,6,29,22,7.0,3.44,Mixed,Time management,60.6
+18,1,22,89,6.1,3.62,Solo,Time management,62.4
+16,9,9,22,10,3.03,Solo,Time management,51.0
+9,9,15,0,6.2,3.68,Solo,None,45.0
+14,1,0,18,8.9,2.44,Solo,Accessibility,15.6
+14,2,11,90,8.1,3.06,Solo,None,38.1
+20,7,25,81,9.9,3.76,Solo,Accessibility,68.8
+17,6,7,85,6.4,3.07,Group,Accessibility,61.7
+9,7,27,72,7.7,3.73,Mixed,None,53.6
+18,2,29,63,8.3,3.71,Solo,None,50.4
+10,6,14,1,8.5,3.17,Solo,None,34.4
+10,1,1,49,5.8,3.36,Solo,Mental health,18.7
+17,7,3,61,7.1,3.33,Mixed,None,50.2
+16,2,25,4,6.7,3.54,Solo,None,41.6
+20,2,17,11,8.0,2.59,Group,Accessibility,57.2
+15,3,19,55,7.3,3.35,Solo,Mental health,41.5
+20,9,8,84,7.8,3.14,Solo,None,78.3
+17,8,4,6,6.2,3.52,Group,Accessibility,46.2
+10,1,6,21,6.0,2.49,Group,Accessibility,12.2
+13,7,15,62,7.7,3.01,Mixed,Time management,58.5
+14,3,14,5,9.3,3.16,Solo,Accessibility,34.5
+18,1,4,89,6.7,3.05,Group,Accessibility,40.9
+12,9,1,49,8.0,3.37,Mixed,Time management,42.4
+16,4,15,38,9.3,3.61,Mixed,None,36.3
+18,3,3,57,6.4,3.74,Solo,Accessibility,58.7
+11,1,13,10,8.3,3.17,Mixed,None,15.8
+20,2,2,49,6.4,2.72,Group,Time management,45.6
+9,9,25,53,7.5,3.35,Mixed,Time management,55.6
+10,2,25,36,4.2,3.75,Group,None,30.5
+19,8,18,77,6.3,3.24,Group,None,70.2
+9,7,28,42,5.8,3.15,Group,Mental health,50.8
+14,1,10,38,6.1,3.91,Mixed,Time management,35.1
+13,8,24,41,6.9,3.15,Mixed,None,64.2
+16,4,29,52,6.9,2.53,Group,Accessibility,56.6
+13,9,12,17,6.9,3.29,Mixed,None,44.7
+12,4,26,7,7.0,3.64,Group,Accessibility,36.1
+17,7,20,15,9.2,3.08,Group,Time management,49.0
+11,8,18,70,6.6,3.39,Group,Accessibility,56.1
+15,1,5,73,6.1,3.25,Solo,Time management,36.8
+19,4,8,83,6.8,3.24,Mixed,None,65.4
+18,1,7,32,6.1,2.46,Mixed,Mental health,33.8
+19,5,13,48,7.8,2.84,Solo,None,52.9
+15,2,0,65,5.0,4.0,Group,Time management,39.0
+18,5,9,87,7.3,3.29,Group,Time management,62.9
+20,5,6,19,6.3,2.91,Solo,Accessibility,52.1
+18,7,21,40,6.2,2.62,Mixed,None,64.2
+15,7,23,4,9.5,2.08,Solo,None,42.0
+20,4,21,68,6.1,2.85,Mixed,None,66.4
+19,9,5,37,7.7,3.37,Group,Accessibility,62.9
+17,3,30,87,8.4,2.86,Solo,None,61.9
+14,6,8,74,6.0,2.99,Group,None,65.3
+19,2,15,24,4.6,3.2,Group,Time management,40.9
+11,3,6,43,8.3,2.76,Group,None,33.3
+20,3,24,10,5.3,3.24,Solo,None,59.8
+12,3,18,20,7.5,2.52,Solo,None,36.1
+15,7,12,54,8.2,3.11,Solo,Time management,52.7
+14,9,6,2,4.1,2.95,Solo,None,47.1
+14,5,4,13,5.8,3.56,Solo,None,49.0
+16,9,19,67,7.8,2.76,Solo,None,78.9
+16,6,24,24,8.3,3.95,Group,None,52.6
+12,1,18,64,10,3.39,Mixed,Accessibility,34.8
+15,5,24,68,5.8,2.82,Solo,Time management,61.9
+20,2,13,56,6.8,2.83,Group,Accessibility,57.9
+12,1,9,53,6.1,2.7,Group,Time management,32.3
+10,9,23,79,5.8,3.35,Solo,None,66.3
+18,4,24,33,8.6,2.26,Group,Accessibility,54.3
+16,4,22,61,7.3,3.19,Mixed,None,55.3
+10,8,4,11,7.1,3.04,Mixed,None,36.8
+13,5,14,6,7.9,3.4,Solo,Mental health,37.1
+14,6,13,14,8.7,3.58,Solo,None,43.9
+14,6,28,56,8.3,3.5,Mixed,None,54.9
+14,3,3,51,5.9,3.46,Group,Time management,33.3
+11,2,4,89,7.2,3.03,Solo,None,22.4
+18,8,25,72,6.7,2.97,Group,Accessibility,69.0
+20,3,15,62,5.5,3.51,Solo,None,62.8
+19,6,0,90,8.0,2.84,Mixed,Time management,48.8
+19,6,16,66,5.7,2.99,Group,Time management,62.4
+12,8,11,84,6.5,2.85,Mixed,Mental health,60.2
+11,9,27,60,6.9,3.68,Solo,Accessibility,53.6
+14,4,10,35,7.8,3.29,Mixed,None,39.3
+16,8,2,63,6.6,3.01,Group,Accessibility,60.3
+9,2,12,52,8.5,3.31,Solo,Accessibility,32.4
+17,9,6,83,6.6,2.74,Group,Accessibility,60.4
+12,8,10,71,7.2,2.66,Mixed,Time management,56.3
+19,4,0,43,6.4,2.85,Group,Time management,54.8
+14,2,1,21,4.8,3.24,Mixed,Accessibility,36.8
+12,2,29,50,8.0,3.36,Solo,Accessibility,49.5
+10,7,1,81,7.8,2.75,Group,None,40.8
+16,1,16,6,6.2,2.8,Mixed,None,33.6
+17,3,22,74,8.0,3.85,Solo,None,44.9
+17,7,13,77,5.5,3.79,Group,None,62.2
+14,5,14,17,8.1,3.61,Mixed,Time management,41.9
+14,9,20,27,5.7,3.37,Group,Time management,67.5
+19,3,22,83,7.7,3.16,Mixed,Time management,60.5
+14,9,15,74,7.5,2.66,Group,Time management,63.1
+17,5,28,54,7.5,2.75,Solo,None,64.1
+13,3,9,87,7.1,3.2,Mixed,Accessibility,54.6
+12,9,1,45,7.2,3.03,Mixed,Accessibility,54.4
+17,7,7,65,5.5,3.35,Group,Time management,53.7
+9,7,12,53,10,2.91,Group,Mental health,46.7
+12,8,26,28,7.7,3.73,Mixed,None,48.0
+18,9,23,77,7.6,3.81,Solo,None,78.5
+11,3,23,65,8.6,3.28,Group,Time management,41.4
+11,3,18,32,8.3,3.22,Solo,None,38.1
+19,5,15,73,6.3,3.05,Mixed,None,64.7
+12,3,16,8,7.2,2.97,Mixed,Time management,34.3
+12,6,10,46,7.5,2.94,Mixed,Time management,56.3
+17,1,3,85,6.5,3.44,Mixed,Time management,35.0
+19,6,12,14,4.9,2.82,Group,None,62.6
+17,6,16,65,6.7,3.24,Mixed,None,49.8
+11,9,17,0,6.7,3.01,Mixed,Accessibility,44.5
+19,7,26,13,7.6,3.92,Mixed,Accessibility,52.4
+20,3,0,58,4.7,3.18,Solo,None,52.2
+13,9,2,73,8.1,2.41,Group,None,53.4
+9,7,21,15,6.1,2.64,Mixed,None,42.9
+20,1,22,9,6.1,3.57,Group,Accessibility,44.2
+16,7,12,84,7.5,3.43,Solo,None,63.1
+15,9,9,81,8.1,3.67,Mixed,Time management,63.2
+17,3,3,5,7.0,3.74,Mixed,Time management,32.6
+10,5,6,44,7.6,4.0,Mixed,None,34.3
+13,4,3,23,8.5,2.95,Solo,Mental health,24.5
+17,8,20,70,8.6,3.46,Group,None,65.5
+14,6,4,85,5.6,3.1,Mixed,None,54.5
+12,6,15,57,6.2,3.72,Mixed,Time management,45.0
+14,7,5,0,6.5,2.93,Mixed,Accessibility,49.7
+15,5,26,46,8.3,3.69,Group,None,48.9
+17,2,5,82,7.8,2.6,Solo,Mental health,41.6
+12,5,23,80,7.4,3.27,Solo,Accessibility,47.6
+18,7,24,75,5.4,3.23,Group,Time management,76.9
+17,8,20,19,6.4,3.41,Mixed,Accessibility,59.3
+17,2,12,46,8.3,2.61,Mixed,Time management,42.7
+17,3,14,20,8.3,4.0,Mixed,Mental health,42.4
+14,1,7,62,8.5,3.24,Solo,None,36.0
+12,9,29,46,5.0,3.78,Solo,None,64.1
+17,5,26,33,6.5,2.74,Group,Time management,56.2
+14,2,16,32,5.1,3.81,Mixed,None,40.6
+16,1,16,17,6.0,2.93,Mixed,Time management,39.0
+12,3,5,20,5.8,3.68,Solo,Time management,25.1
+10,8,21,61,7.5,2.67,Mixed,Accessibility,56.5
+9,4,1,16,6.4,3.09,Mixed,Time management,25.9
+11,5,29,23,6.6,2.79,Mixed,Time management,46.0
+20,5,30,10,7.3,3.73,Group,Mental health,62.6
+18,3,25,74,9.0,3.31,Mixed,Time management,53.5
+11,6,29,58,6.6,3.11,Group,None,58.1
+17,7,26,19,7.5,3.0,Mixed,Time management,57.9
+17,9,24,15,8.5,3.52,Mixed,Time management,72.3
+19,7,16,53,7.0,3.12,Mixed,None,67.3
+16,7,11,75,7.9,2.38,Mixed,Time management,59.2
+12,2,9,76,7.4,3.49,Solo,None,32.8
+20,1,18,66,7.1,3.23,Mixed,None,55.0
+10,3,13,83,5.8,2.93,Mixed,None,41.6
+14,5,21,50,7.0,2.79,Mixed,None,48.7
+13,5,18,44,8.1,3.26,Solo,Mental health,39.8
+19,2,23,29,5.2,3.4,Solo,None,43.8
+17,1,5,49,6.9,3.24,Solo,Accessibility,37.7
+16,7,2,8,6.9,3.58,Mixed,None,32.3
+18,9,9,76,9.3,3.85,Solo,Time management,67.6
+16,1,6,84,8.3,3.0,Solo,None,36.3
+12,3,21,4,6.2,2.83,Solo,None,41.1
+13,7,11,85,5.7,3.53,Mixed,None,56.2
+17,5,23,71,4.4,3.52,Group,None,64.9
+12,8,29,51,6.2,3.06,Group,Time management,57.7
+14,2,25,65,6.5,3.99,Mixed,None,43.8
+16,7,18,61,7.3,2.53,Group,Time management,72.0
+16,2,8,8,5.6,2.68,Solo,Time management,42.4
+12,6,13,45,6.8,3.19,Group,None,52.5
+14,2,17,22,8.0,2.83,Mixed,None,35.1
+20,4,15,25,7.1,3.5,Group,None,52.9
+18,6,4,13,7.9,3.32,Mixed,None,46.3
+9,9,30,5,7.7,2.89,Group,None,59.6
+13,8,5,65,6.8,3.15,Mixed,None,58.0
+17,7,15,69,8.1,3.28,Mixed,Accessibility,59.9
+17,8,10,88,7.2,3.8,Group,Time management,67.3
+14,6,19,33,7.4,3.49,Group,None,45.3
+16,7,6,53,6.3,3.08,Group,None,52.3
+11,3,18,87,7.1,3.38,Group,Accessibility,35.8
+12,3,25,19,6.2,3.14,Group,None,39.6
+19,9,17,40,7.2,2.87,Mixed,Mental health,72.6
+11,1,6,32,7.2,2.64,Group,Accessibility,25.2
+13,6,11,71,5.0,2.94,Group,None,64.2
+18,4,18,73,8.7,2.91,Group,None,52.5
+19,9,15,57,7.9,2.95,Group,None,80.9
+19,6,13,80,6.3,2.89,Solo,None,65.8
+14,4,10,40,5.9,2.68,Mixed,Time management,44.4
+14,9,30,57,8.3,2.98,Solo,None,69.5
+12,5,30,89,7.0,2.92,Group,None,70.5
+17,1,0,50,8.0,2.0,Solo,None,34.6
+11,2,20,49,6.7,3.48,Group,None,40.3
+11,1,1,84,8.0,2.65,Group,None,39.0
+17,5,17,56,8.9,3.93,Mixed,None,45.3
+19,7,16,81,6.0,2.98,Group,None,70.9
+12,2,14,39,6.4,3.43,Group,None,25.4
+11,6,9,60,6.7,2.6,Group,Mental health,45.6
+16,5,0,55,7.5,2.69,Solo,Time management,50.9
+15,7,7,20,9.3,3.07,Group,None,35.6
+10,7,20,30,4.9,3.13,Mixed,Accessibility,48.3
+20,9,25,34,6.1,2.53,Solo,None,83.6
+10,8,19,57,6.8,3.75,Solo,None,59.7
+9,3,3,36,9.6,3.12,Mixed,None,27.0
+10,3,0,63,7.3,3.61,Group,Mental health,19.6
+14,2,26,18,7.5,3.85,Solo,Time management,39.1
+11,4,28,32,7.9,2.52,Solo,Mental health,41.9
+16,4,23,4,5.8,3.4,Solo,Time management,54.1
+12,8,12,87,9.7,2.97,Solo,Time management,66.4
+17,2,8,61,7.7,3.03,Solo,Mental health,41.1
+12,2,7,81,6.8,3.23,Group,Time management,35.4
+9,8,22,76,7.5,3.59,Solo,None,61.4
+10,6,29,80,8.0,3.34,Solo,Accessibility,55.1
+12,6,17,82,6.4,3.23,Group,Accessibility,47.4
+9,7,11,17,7.0,3.31,Mixed,None,33.8
+12,3,17,44,8.8,3.0,Mixed,Mental health,40.8
+17,3,2,67,7.6,3.48,Group,Time management,35.5
+17,7,23,23,7.6,3.61,Group,Accessibility,52.4
+12,6,23,8,6.2,2.78,Group,None,42.9
+11,5,10,52,5.1,3.08,Mixed,Time management,43.0
+9,3,5,4,7.4,3.64,Solo,None,13.4
+16,9,19,89,6.1,3.09,Solo,Time management,76.0
+10,1,29,26,5.5,2.44,Solo,None,33.4
+20,7,26,47,6.1,3.24,Mixed,None,71.8
+9,2,26,38,7.7,3.33,Mixed,None,30.2
+12,4,16,84,5.5,3.2,Solo,Time management,59.1
+17,7,23,13,7.2,2.68,Mixed,None,53.5
+11,3,17,51,4.9,2.61,Mixed,Mental health,43.9
+16,6,28,40,4,2.78,Group,None,61.4
+14,4,18,69,5.3,3.35,Mixed,None,62.4
+16,8,30,50,7.3,3.2,Group,Time management,53.0
+13,1,9,28,6.6,3.28,Mixed,Accessibility,32.4
+17,9,17,73,7.6,3.1,Solo,None,73.8
+18,4,7,32,7.8,3.27,Group,Time management,42.5
+12,2,23,41,7.2,2.96,Mixed,Accessibility,39.4
+19,5,1,73,6.5,2.69,Group,None,64.9
+15,7,29,15,7.6,2.99,Mixed,Accessibility,62.7
+19,7,1,39,6.3,2.85,Mixed,None,57.5
+17,4,4,6,5.1,2.0,Group,Accessibility,43.1
+15,5,25,50,6.8,3.42,Group,Time management,59.4
+9,9,12,33,8.2,3.44,Mixed,None,47.1
+16,7,20,73,8.2,3.38,Mixed,Time management,69.7
+12,2,8,55,5.8,4.0,Solo,None,29.3
+12,6,11,76,7.6,2.82,Solo,Mental health,44.0
+18,8,19,18,4.5,3.53,Solo,None,59.7
+10,2,23,6,8.4,3.22,Solo,Mental health,31.1
+13,1,10,88,7.3,2.88,Group,None,41.9
+12,9,16,33,8.4,2.67,Solo,Time management,50.6
+19,1,12,74,8.2,2.93,Group,None,46.7
+18,5,1,59,9.1,3.17,Group,Time management,47.1
+19,6,27,13,9.4,3.3,Mixed,None,61.3
+20,2,28,40,6.8,2.66,Solo,None,59.0
+17,8,17,2,9.6,3.42,Group,None,47.1
+14,6,11,80,7.4,2.77,Mixed,None,72.0
+9,5,28,49,8.7,2.73,Solo,Mental health,46.6
+14,7,21,17,6.7,3.53,Mixed,Time management,53.4
+19,4,13,30,5.9,3.01,Group,Mental health,50.7
+12,3,18,69,8.3,3.09,Solo,None,38.8

@@ -1,0 +1,65 @@
+participant_id,age,gender,weekly_work_hours,commute_minutes,courses_enrolled,planning_confidence,need_accessibility_support,preferred_explanations,ai_trust,open_response
+P2_001,37,Man,29,48,6,6,None,Checklists,6,Prefer planning suggestions that are easy to override.
+P2_002,24,Man,9,87,3,7,Cognitive support,Charts,3,Reminders should respect quiet hours.
+P2_003,41,Woman,20,43,3,7,None,Text summaries,1,Reminders should respect quiet hours.
+P2_004,41,Man,26,58,4,4,None,Checklists,6,I want transparency on why recommendations appear.
+P2_005,48,Woman,26,75,5,3,Color contrast,Charts,3,Reminders should respect quiet hours.
+P2_006,33,Man,18,78,6,3,None,Text summaries,2,Reminders should respect quiet hours.
+P2_007,31,Woman,8,43,5,5,Screen reader,Text summaries,5,Need warnings when workload spikes.
+P2_008,30,Woman,23,52,6,5,Screen reader,Checklists,4,Reminders should respect quiet hours.
+P2_009,46,Man,2,37,4,4,None,Text summaries,6,I want transparency on why recommendations appear.
+P2_010,48,Man,11,54,5,3,Screen reader,Text summaries,3,I want transparency on why recommendations appear.
+P2_011,32,Woman,6,40,3,6,None,Checklists,2,Prefer planning suggestions that are easy to override.
+P2_012,31,Man,8,75,5,1,Color contrast,Text summaries,2,I want transparency on why recommendations appear.
+P2_013,29,Woman,22,68,4,3,None,Charts,5,I want transparency on why recommendations appear.
+P2_014,26,Man,24,62,3,7,None,Text summaries,4,Reminders should respect quiet hours.
+P2_015,46,Woman,30,6,5,7,None,Charts,4,Reminders should respect quiet hours.
+P2_016,22,Man,21,6,4,2,Color contrast,Text summaries,1,Prefer planning suggestions that are easy to override.
+P2_017,25,Man,13,77,4,7,None,Text summaries,4,I want transparency on why recommendations appear.
+P2_018,45,Woman,19,7,3,7,None,Charts,3,Need warnings when workload spikes.
+P2_019,28,Woman,17,9,4,1,None,Checklists,5,Reminders should respect quiet hours.
+P2_020,36,Woman,9,90,5,6,Color contrast,Charts,6,Prefer planning suggestions that are easy to override.
+P2_021,34,Man,20,75,4,4,None,Charts,6,Prefer planning suggestions that are easy to override.
+P2_022,35,Man,2,7,4,7,None,Checklists,7,I want transparency on why recommendations appear.
+P2_023,46,Woman,22,38,6,3,None,Text summaries,4,Need warnings when workload spikes.
+P2_024,20,Man,23,41,5,1,None,Checklists,7,Need warnings when workload spikes.
+P2_025,35,Man,24,22,6,5,None,Text summaries,2,Reminders should respect quiet hours.
+P2_026,49,Non-binary,15,44,6,3,None,Charts,7,Prefer planning suggestions that are easy to override.
+P2_027,39,Woman,15,36,6,7,Screen reader,Charts,4,Need warnings when workload spikes.
+P2_028,38,Woman,3,51,3,6,Color contrast,Text summaries,4,Need warnings when workload spikes.
+P2_029,30,Man,19,63,6,7,None,Text summaries,5,Prefer planning suggestions that are easy to override.
+P2_030,36,Woman,22,62,3,1,Cognitive support,Checklists,7,Prefer planning suggestions that are easy to override.
+P2_031,28,Woman,0,70,6,1,None,Charts,4,Need warnings when workload spikes.
+P2_032,27,Man,22,37,5,4,Color contrast,Text summaries,2,Reminders should respect quiet hours.
+P2_033,27,Woman,29,76,4,7,None,Text summaries,3,I want transparency on why recommendations appear.
+P2_034,18,Woman,9,75,6,7,None,Checklists,4,I want transparency on why recommendations appear.
+P2_035,39,Man,17,48,6,3,Color contrast,Checklists,2,Reminders should respect quiet hours.
+P2_036,32,Man,13,5,5,6,None,Text summaries,4,Prefer planning suggestions that are easy to override.
+P2_037,49,Non-binary,4,64,5,7,None,Text summaries,1,Reminders should respect quiet hours.
+P2_038,18,Man,13,83,4,1,None,Text summaries,3,Reminders should respect quiet hours.
+P2_039,23,Man,27,86,6,3,None,Text summaries,7,Need warnings when workload spikes.
+P2_040,22,Woman,21,36,4,6,None,Charts,7,Need warnings when workload spikes.
+P2_041,46,Woman,9,3,3,3,Screen reader,Text summaries,3,I want transparency on why recommendations appear.
+P2_042,45,Woman,16,52,4,2,None,Checklists,7,Reminders should respect quiet hours.
+P2_043,33,Man,18,18,4,4,None,Text summaries,3,Need warnings when workload spikes.
+P2_044,47,Non-binary,21,69,4,1,None,Text summaries,5,I want transparency on why recommendations appear.
+P2_045,45,Man,14,38,4,4,Color contrast,Charts,2,Reminders should respect quiet hours.
+P2_046,40,Man,22,37,3,7,None,Text summaries,1,Need warnings when workload spikes.
+P2_047,49,Man,28,36,4,5,Color contrast,Charts,6,Prefer planning suggestions that are easy to override.
+P2_048,34,Man,23,84,4,6,None,Checklists,6,Need warnings when workload spikes.
+P2_049,37,Man,1,74,5,6,None,Text summaries,3,Reminders should respect quiet hours.
+P2_050,29,Woman,25,69,5,5,None,Text summaries,7,Prefer planning suggestions that are easy to override.
+P2_051,34,Non-binary,30,61,5,6,Color contrast,Charts,4,Need warnings when workload spikes.
+P2_052,27,Man,7,86,6,7,Color contrast,Text summaries,1,Reminders should respect quiet hours.
+P2_053,18,Woman,3,58,5,6,Screen reader,Text summaries,5,Reminders should respect quiet hours.
+P2_054,41,Woman,7,60,3,5,Color contrast,Checklists,3,Prefer planning suggestions that are easy to override.
+P2_055,22,Man,14,89,5,6,None,Charts,1,Need warnings when workload spikes.
+P2_056,37,Prefer not to say,3,12,4,5,None,Text summaries,3,Reminders should respect quiet hours.
+P2_057,27,Man,20,12,6,5,None,Text summaries,1,I want transparency on why recommendations appear.
+P2_058,31,Woman,30,30,5,1,Cognitive support,Text summaries,5,I want transparency on why recommendations appear.
+P2_059,21,Woman,6,15,6,1,None,Checklists,6,Need warnings when workload spikes.
+P2_060,21,Man,7,16,4,1,Color contrast,Checklists,2,Prefer planning suggestions that are easy to override.
+P2_061,32,Woman,4,76,3,3,Color contrast,Charts,2,I want transparency on why recommendations appear.
+P2_062,29,Woman,27,3,4,1,None,Charts,5,I want transparency on why recommendations appear.
+P2_063,19,Woman,1,16,6,5,None,Charts,4,Reminders should respect quiet hours.
+P2_064,41,Man,3,57,4,5,None,Checklists,5,I want transparency on why recommendations appear.
