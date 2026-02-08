@@ -1,0 +1,41 @@
+participant_id,project,quote,code_primary,code_secondary,coder_id
+P2_005,project1,I wanted more control over the soundtrack intensity.,Accessibility,Learnability,C1
+P2_049,project2,I wanted more control over the soundtrack intensity.,Transparency,Agency,C2
+P2_019,project1,I needed clearer feedback when the model used my input.,Trust,Agency,C1
+P2_029,project2,The story options felt culturally resonant.,Trust,Agency,C2
+P1_003,project1,I needed clearer feedback when the model used my input.,Accessibility,Emotional response,C1
+P2_040,project2,I wanted more control over the soundtrack intensity.,Transparency,Agency,C1
+P1_018,project2,The recommendations were helpful but sometimes generic.,Control,Learnability,C1
+P2_027,project2,I wanted more control over the soundtrack intensity.,Engagement,Agency,C1
+P2_035,project1,I needed clearer feedback when the model used my input.,Trust,Learnability,C1
+P2_006,project2,The story options felt culturally resonant.,Transparency,Agency,C1
+P2_053,project1,I needed clearer feedback when the model used my input.,Trust,Fairness,C1
+P1_012,project2,The story options felt culturally resonant.,Control,Agency,C2
+P2_025,project2,The story options felt culturally resonant.,Engagement,Fairness,C2
+P2_001,project2,I needed clearer feedback when the model used my input.,Accessibility,Emotional response,C2
+P1_020,project1,The workload warnings helped me plan breaks.,Control,Learnability,C2
+P2_058,project2,I needed clearer feedback when the model used my input.,Accessibility,Fairness,C1
+P2_020,project1,The recommendations were helpful but sometimes generic.,Transparency,Emotional response,C1
+P1_029,project1,The workload warnings helped me plan breaks.,Engagement,Learnability,C2
+P2_002,project2,I needed clearer feedback when the model used my input.,Accessibility,Learnability,C2
+P1_058,project2,The story options felt culturally resonant.,Engagement,Fairness,C1
+P2_013,project1,The workload warnings helped me plan breaks.,Transparency,Learnability,C2
+P2_056,project1,I wanted more control over the soundtrack intensity.,Engagement,Agency,C2
+P1_037,project2,I wanted more control over the soundtrack intensity.,Accessibility,Fairness,C1
+P1_001,project1,The workload warnings helped me plan breaks.,Transparency,Reliability,C2
+P2_050,project2,The recommendations were helpful but sometimes generic.,Engagement,Reliability,C2
+P1_051,project2,I wanted more control over the soundtrack intensity.,Engagement,Agency,C1
+P1_019,project1,I needed clearer feedback when the model used my input.,Accessibility,Agency,C1
+P1_005,project2,The story options felt culturally resonant.,Trust,Emotional response,C2
+P2_004,project2,I needed clearer feedback when the model used my input.,Control,Learnability,C2
+P1_045,project2,I needed clearer feedback when the model used my input.,Accessibility,Agency,C2
+P2_051,project2,I wanted more control over the soundtrack intensity.,Trust,Learnability,C1
+P1_009,project1,The story options felt culturally resonant.,Accessibility,Fairness,C2
+P1_064,project2,I needed clearer feedback when the model used my input.,Accessibility,Emotional response,C1
+P1_034,project1,I wanted more control over the soundtrack intensity.,Accessibility,Emotional response,C1
+P2_052,project1,The story options felt culturally resonant.,Trust,Fairness,C1
+P1_042,project1,The recommendations were helpful but sometimes generic.,Control,Fairness,C1
+P2_063,project1,I wanted more control over the soundtrack intensity.,Control,Emotional response,C1
+P1_060,project2,The recommendations were helpful but sometimes generic.,Accessibility,Reliability,C1
+P1_030,project1,The recommendations were helpful but sometimes generic.,Trust,Emotional response,C2
+P1_046,project1,I wanted more control over the soundtrack intensity.,Engagement,Emotional response,C1

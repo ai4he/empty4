@@ -1,0 +1,65 @@
+participant_id,age,gender,gaming_hours_week,narrative_importance,music_importance,visual_style_preference,accessibility_needs,co_creation_interest,ai_trust,preferred_platform,open_response
+P1_001,38,Woman,23,3,2,Cel-shaded,None,1,6,Mobile,Want adaptive difficulty and meaningful choices.
+P1_002,36,Woman,0,1,2,Cel-shaded,None,1,5,Web,Prefer short sessions with clear progress markers.
+P1_003,25,Woman,8,7,7,Pixel art,Captions,2,6,Web,Need captions and adjustable text size.
+P1_004,22,Woman,24,3,1,Pixel art,None,3,7,Web,Need captions and adjustable text size.
+P1_005,43,Woman,14,5,1,Minimalist,None,3,7,Mobile,Need captions and adjustable text size.
+P1_006,36,Woman,2,1,6,Cel-shaded,Captions,1,7,Web,Want adaptive difficulty and meaningful choices.
+P1_007,30,Woman,20,7,3,Cel-shaded,None,2,6,Web,Want adaptive difficulty and meaningful choices.
+P1_008,37,Man,17,6,2,Cel-shaded,None,3,6,Mobile,Emphasize music synchronization with story beats.
+P1_009,39,Woman,24,7,1,Cel-shaded,Captions,7,3,Web,Want adaptive difficulty and meaningful choices.
+P1_010,24,Non-binary,18,6,3,Cel-shaded,Color contrast,4,6,Web,Need captions and adjustable text size.
+P1_011,22,Woman,17,5,3,Minimalist,Captions,4,3,Web,Emphasize music synchronization with story beats.
+P1_012,34,Man,24,1,7,Pixel art,None,2,7,Mobile,Want adaptive difficulty and meaningful choices.
+P1_013,30,Woman,14,5,3,Pixel art,Color contrast,1,6,Desktop,Need captions and adjustable text size.
+P1_014,42,Man,3,3,4,Cel-shaded,None,6,6,Web,Emphasize music synchronization with story beats.
+P1_015,34,Non-binary,20,3,7,Cel-shaded,None,7,2,Mobile,Want adaptive difficulty and meaningful choices.
+P1_016,37,Woman,0,1,3,Realistic,None,2,5,Desktop,Want adaptive difficulty and meaningful choices.
+P1_017,41,Man,2,7,5,Cel-shaded,None,4,5,Web,Prefer short sessions with clear progress markers.
+P1_018,24,Non-binary,24,6,6,Cel-shaded,Color contrast,4,6,Mobile,Prefer short sessions with clear progress markers.
+P1_019,34,Man,7,2,1,Realistic,None,5,2,Mobile,Want adaptive difficulty and meaningful choices.
+P1_020,20,Man,1,2,1,Pixel art,Captions,1,5,Web,Prefer short sessions with clear progress markers.
+P1_021,24,Man,23,5,5,Minimalist,None,4,7,Web,Want adaptive difficulty and meaningful choices.
+P1_022,21,Man,11,4,4,Minimalist,Captions,1,6,Mobile,Want adaptive difficulty and meaningful choices.
+P1_023,19,Woman,10,7,7,Pixel art,None,2,5,Web,Prefer short sessions with clear progress markers.
+P1_024,23,Woman,7,7,1,Minimalist,Captions,7,5,Web,Want adaptive difficulty and meaningful choices.
+P1_025,20,Non-binary,7,2,4,Minimalist,None,7,4,Desktop,Emphasize music synchronization with story beats.
+P1_026,30,Woman,12,3,7,Minimalist,None,6,6,Desktop,Prefer short sessions with clear progress markers.
+P1_027,22,Woman,6,1,5,Pixel art,Color contrast,1,1,Mobile,Emphasize music synchronization with story beats.
+P1_028,19,Non-binary,2,7,2,Pixel art,None,6,7,Web,Want adaptive difficulty and meaningful choices.
+P1_029,36,Woman,19,1,5,Pixel art,None,5,5,Mobile,Need captions and adjustable text size.
+P1_030,24,Man,10,2,3,Minimalist,None,6,3,Web,Want adaptive difficulty and meaningful choices.
+P1_031,18,Man,18,1,1,Cel-shaded,None,2,3,Desktop,Emphasize music synchronization with story beats.
+P1_032,29,Woman,14,7,5,Realistic,Color contrast,7,6,Mobile,Need captions and adjustable text size.
+P1_033,39,Woman,4,3,1,Pixel art,Color contrast,2,3,Web,Emphasize music synchronization with story beats.
+P1_034,40,Woman,21,6,7,Realistic,None,3,7,Web,Prefer short sessions with clear progress markers.
+P1_035,44,Woman,0,3,7,Cel-shaded,Color contrast,3,2,Mobile,Prefer short sessions with clear progress markers.
+P1_036,35,Woman,2,6,2,Pixel art,Captions,5,5,Web,Emphasize music synchronization with story beats.
+P1_037,19,Woman,25,7,1,Realistic,None,2,6,Web,Prefer short sessions with clear progress markers.
+P1_038,37,Man,7,7,2,Cel-shaded,Captions,1,2,Mobile,Need captions and adjustable text size.
+P1_039,43,Non-binary,25,6,7,Cel-shaded,None,7,6,Web,Want adaptive difficulty and meaningful choices.
+P1_040,45,Man,6,7,4,Realistic,None,7,7,Web,Want adaptive difficulty and meaningful choices.
+P1_041,39,Woman,10,3,7,Pixel art,Motor support,3,3,Mobile,Prefer short sessions with clear progress markers.
+P1_042,39,Prefer not to say,17,3,1,Pixel art,Captions,3,2,Mobile,Need captions and adjustable text size.
+P1_043,19,Woman,13,3,6,Realistic,None,5,1,Web,Emphasize music synchronization with story beats.
+P1_044,26,Woman,13,1,5,Cel-shaded,None,1,6,Desktop,Need captions and adjustable text size.
+P1_045,39,Man,23,3,5,Realistic,Color contrast,3,4,Mobile,Emphasize music synchronization with story beats.
+P1_046,24,Woman,12,6,6,Cel-shaded,Color contrast,3,4,Mobile,Want adaptive difficulty and meaningful choices.
+P1_047,27,Woman,13,7,5,Realistic,None,4,6,Web,Prefer short sessions with clear progress markers.
+P1_048,43,Non-binary,25,6,2,Pixel art,None,6,6,Mobile,Want adaptive difficulty and meaningful choices.
+P1_049,44,Non-binary,7,6,3,Cel-shaded,Captions,2,1,Web,Prefer short sessions with clear progress markers.
+P1_050,37,Man,2,4,4,Cel-shaded,Color contrast,4,4,Web,Emphasize music synchronization with story beats.
+P1_051,38,Man,24,7,7,Pixel art,Captions,2,2,Desktop,Prefer short sessions with clear progress markers.
+P1_052,19,Man,3,4,2,Minimalist,Color contrast,5,5,Web,Prefer short sessions with clear progress markers.
+P1_053,37,Man,16,4,7,Minimalist,Captions,6,7,Web,Need captions and adjustable text size.
+P1_054,42,Woman,20,3,7,Minimalist,Color contrast,3,4,Web,Need captions and adjustable text size.
+P1_055,25,Woman,10,5,1,Cel-shaded,None,4,6,Web,Emphasize music synchronization with story beats.
+P1_056,20,Woman,10,5,4,Minimalist,None,7,4,Web,Want adaptive difficulty and meaningful choices.
+P1_057,45,Man,18,4,4,Pixel art,Motor support,3,7,Web,Prefer short sessions with clear progress markers.
+P1_058,35,Man,17,7,5,Cel-shaded,None,3,4,Web,Prefer short sessions with clear progress markers.
+P1_059,28,Man,25,4,6,Cel-shaded,Captions,2,5,Mobile,Prefer short sessions with clear progress markers.
+P1_060,36,Man,0,1,6,Minimalist,None,4,2,Web,Prefer short sessions with clear progress markers.
+P1_061,28,Woman,10,3,7,Minimalist,None,7,4,Web,Want adaptive difficulty and meaningful choices.
+P1_062,33,Woman,17,1,3,Cel-shaded,Color contrast,7,6,Web,Want adaptive difficulty and meaningful choices.
+P1_063,25,Woman,0,5,2,Cel-shaded,None,6,1,Mobile,Emphasize music synchronization with story beats.
+P1_064,32,Man,24,3,2,Pixel art,Captions,2,3,Web,Want adaptive difficulty and meaningful choices.
